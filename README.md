@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Dragos Petrescu. I'm a 22 year old student seeking an entry-level job as a Intern/Junior Front-End Developer.
-My goal is to become a Full-Stack Developer. I'm studying Systems Engineering at Politehnica University of Timisoara ,last year.
+My goal is to become a Full-Stack Developer. I'm studying Systems Engineering at Politehnica University of Timisoara, last year.
 
 ## Skills and Tools Description
 
