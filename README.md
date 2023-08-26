@@ -7,7 +7,10 @@ My goal is to become a Full-Stack Developer. I'm studying Systems Engineering at
 
 - Proficient in C++. 
 - Competent in HTML, Tailwind CSS, SCSS and JavaScript.
-- Familiar with React, NodeJS, ExpressJS, MongoDB, Firebase/Supabase 
+- Familiar with React, NodeJS, ExpressJS, MongoDB, Firebase/Supabase
+
+- Competent in Figma, Git
+- Familiar with Postman
 
 
 ## Main sources that I use to improve daily 
