@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**Dragos20Tech/Dragos20Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dragos Petrescu. I'm a 22 year old student seeking an entry-level job as a Intern/Junior Front-End Developer.
+My goal is to become a Full-Stack Developer. I'm studying Systems Engineering at Politehnica University of Timisoara ,last year.
 
-Here are some ideas to get you started:
+## Skills and Tools Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proficient in C++. 
+- Competent in HTML, Tailwind CSS, SCSS and JavaScript.
+- Familiar with React, NodeJS, ExpressJS, MongoDB, Firebase/Supabase 
+
+
+## Main sources that I use to improve daily 
+
+- Viorel Mocanu (YouTube Channel)
+- Kevin Powell (YouTube Channel)
+- Scrimba
+- The Odin Project
+- MDN Web Docs
+  
