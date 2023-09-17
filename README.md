@@ -42,4 +42,6 @@ A 22-year-old student seeking an entry-level job as a Junior Frontend Developer.
 - [Scrimba](scrimba.com)
 - [The Odin Project](https://www.theodinproject.com)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [W3Schools](https://www.w3schools.com)
+- [Udemy](https://www.udemy.com)
 
