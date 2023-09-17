@@ -37,11 +37,11 @@ A 22-year-old student seeking an entry-level job as a Junior Frontend Developer.
 
 ### Sources of information for my daily learning
 
-- [Viorel Mocanu](https://www.youtube.com/@ViorelMocanu){:target="_blank"} (YouTube Channel)
-- [Kevin Powell](https://www.youtube.com/@KevinPowell){:target="_blank"} (YouTube Channel)
-- [Scrimba](scrimba.com){:target="_blank"}
-- [The Odin Project](https://www.theodinproject.com){:target="_blank"}
-- [MDN Web Docs](https://developer.mozilla.org/en-US/){:target="_blank"}
-- [W3Schools](https://www.w3schools.com){:target="_blank"}
-- [Udemy](https://www.udemy.com){:target="_blank"}
+- [Viorel Mocanu](https://www.youtube.com/@ViorelMocanu) (YouTube Channel)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) (YouTube Channel)
+- [Scrimba](scrimba.com)
+- [The Odin Project](https://www.theodinproject.com)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [W3Schools](https://www.w3schools.com)
+- [Udemy](https://www.udemy.com)
 
