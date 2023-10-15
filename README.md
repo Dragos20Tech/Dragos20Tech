@@ -25,6 +25,10 @@ A 22-year-old student seeking an entry-level job as a Junior Frontend Developer.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Codewars Status
+
+![Codewars](https://github.r2v.ch/codewars?user=Dragos20Tech&stroke=%23BB432C)
+
 
 ### Socials
 
@@ -44,4 +48,3 @@ A 22-year-old student seeking an entry-level job as a Junior Frontend Developer.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com)
 - [Udemy](https://www.udemy.com)
-
