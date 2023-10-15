@@ -27,7 +27,7 @@ A 22-year-old student seeking an entry-level job as a Junior Frontend Developer.
 
 ### Codewars Status
 
-![Codewars](https://github.r2v.ch/codewars?user=Dragos20Tech&stroke=%23BB432C)
+[![Codewars](https://github.r2v.ch/codewars?user=Dragos20Tech&stroke=%23BB432C)](https://www.codewars.com/users/Dragos20Tech)
 
 
 ### Socials
