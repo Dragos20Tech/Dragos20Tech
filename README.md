@@ -43,7 +43,7 @@ A 22-year-old student seeking an entry-level role as a Junior Frontend (or Full-
 
 - [Viorel Mocanu](https://www.youtube.com/@ViorelMocanu) (YouTube Channel)
 - [Kevin Powell](https://www.youtube.com/@KevinPowell) (YouTube Channel)
-- [Scrimba](scrimba.com)
+- [Scrimba](https://scrimba.com)
 - [The Odin Project](https://www.theodinproject.com)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com)
