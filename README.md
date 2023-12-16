@@ -25,26 +25,29 @@ A 22-year-old student seeking an entry-level role as a Junior Frontend (or Full-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Codewars Status
+### Codewars Status 👨‍💻
 
 [![Codewars](https://github.r2v.ch/codewars?user=Dragos20Tech&stroke=%23BB432C)](https://www.codewars.com/users/Dragos20Tech)
 
 
-### Socials
+### Socials 🤳🏽
 
 <p align="left"> <a href="https://www.facebook.com/dragos.petrescu.50767" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> &nbsp;
   <a href="https://www.linkedin.com/in/dragospetrescu2001/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Badges 🎖️
 
 <a href="https://github.com/Dragos20Tech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragos20Tech&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Sources of information for my daily learning
+### Sources of information for my daily learning 👨‍🎓
 
-- [Viorel Mocanu](https://www.youtube.com/@ViorelMocanu) (YouTube Channel)
-- [Kevin Powell](https://www.youtube.com/@KevinPowell) (YouTube Channel)
+- [Viorel Mocanu](https://www.youtube.com/@ViorelMocanu) (YouTube Channel) 🎥
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) (YouTube Channel) 🎥
+- [Brad Traversy](https://www.youtube.com/@TraversyMedia) (YouTube Channel) 🎥
+- [Udemy](https://www.udemy.com)
 - [Scrimba](https://scrimba.com)
 - [The Odin Project](https://www.theodinproject.com)
+- [Refactoring Guru](https://refactoring.guru)
+- [TypeHero](https://typehero.dev)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com)
-- [Udemy](https://www.udemy.com)
