@@ -47,6 +47,7 @@ A 22-year-old student seeking an entry-level role as a Junior Frontend (or Full-
 - [Udemy](https://www.udemy.com)
 - [Scrimba](https://scrimba.com)
 - [The Odin Project](https://www.theodinproject.com)
+- [Khan Academy](https://www.khanacademy.org)
 - [Refactoring Guru](https://refactoring.guru)
 - [TypeHero](https://typehero.dev)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
