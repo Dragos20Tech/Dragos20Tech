@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dragos Petrescu
 =======================================================================================================================================
 
-A 22-year-old student seeking an entry-level role as a Junior Frontend (or Full-Stack) Developer.
+A 22-year-old student seeking an entry-level role as a Junior Full-Stack (or Frontend) Developer.
 
 * 🌍  I'm based in Timisoara, Romania
 * ✉️  You can contact me at [dragospetrescu5@gmail.com](mailto:dragospetrescu5@gmail.com)
