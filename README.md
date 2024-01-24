@@ -5,7 +5,7 @@ A 22-year-old student seeking an entry-level role as a Junior Full-Stack (or Fro
 
 * 🌍  I'm based in Timisoara, Romania
 * ✉️  You can contact me at [dragospetrescu5@gmail.com](mailto:dragospetrescu5@gmail.com)
-* 🧠  I'm learning JavaScript, Tailwind SCSS and Python
+* 🧠  I'm learning SCSS, Tailwind, JavaScript and Python
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Someone told me I'm "strange" (Doctor Strange).
 
