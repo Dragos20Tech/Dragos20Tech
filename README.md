@@ -29,6 +29,9 @@ A 22-year-old student seeking an entry-level role as a Junior Full-Stack (or Fro
 
 [![Codewars](https://github.r2v.ch/codewars?user=Dragos20Tech&stroke=%23BB432C)](https://www.codewars.com/users/Dragos20Tech)
 
+### LeetCode Status 🚀
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Dragos20Tech)](https://leetcode.com/Dragos20Tech)
 
 ### Socials 🤳🏽
 
