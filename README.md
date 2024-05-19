@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dragos Petrescu
 =======================================================================================================================================
 
-A 22-year-old student seeking an entry-level role as a Junior Full-Stack (or Frontend) Developer.
+I am a 23-year-old student with a strong passion for web development, actively seeking an entry-level position as a Junior Full-Stack or Frontend Developer. I have hands-on experience with  modern frameworks such as React and Django. Committed to continuous learning and eager to contribute to innovative projects. Let's connect and build something great together!
 
 * 🌍  I'm based in Timisoara, Romania
 * ✉️  You can contact me at [dragospetrescu5@gmail.com](mailto:dragospetrescu5@gmail.com)
-* 🧠  I'm learning SCSS, Tailwind, JavaScript and Python
+* 🧠  I'm learning SCSS, Tailwind and React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Someone told me I'm "strange" (Doctor Strange).
 
@@ -13,9 +13,8 @@ A 22-year-old student seeking an entry-level role as a Junior Full-Stack (or Fro
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="36" height="36" alt="React" /></a> &nbsp;
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="36" height="36" alt="TypeScript" /></a> &nbsp;
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> &nbsp;
