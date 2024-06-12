@@ -1,7 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-My name is Dragos-Constantin Petrescu and I'm working as a Junior PHP Developer @ [maghost](https://www.maghost.ro). Daily, I try to improve myself either professionally or personally. On a personal level, I value the importance of a balanced lifestyle. I regularly exercise and play sports to stay fit and healthy. I also enjoy spending time with friends and family, as well as exploring new hobbies and interests. My dedication to personal growth extends to improving my soft skills, such as communication, teamwork, and time management, which I believe are crucial for professional success. My main goal professionally is to become a proficient Full-Stack Engineer focused on delivering quality solutions that enhance user experiences and drive business growth. Wanna build something together? Contact me using the email link below!
+My name is Dragos-Constantin Petrescu, and I'm working as a Junior PHP Developer at maghost. Daily, I strive to improve myself both professionally and personally.
+
+On a personal level, I value the importance of a balanced lifestyle. I regularly exercise and play sports to stay fit and healthy. I also enjoy spending time with friends and family, as well as exploring new hobbies and interests. My dedication to personal growth extends to improving my soft skills, such as communication, teamwork, and time management, which I believe are crucial for professional success.
+
+Professionally, my main goal is to become a proficient Full-Stack Engineer focused on delivering quality solutions that enhance user experiences and drive business growth.
+
+Want to build something together? Contact me using the email link below!
 
 * 🌍  I'm based in Timisoara, Romania
 * ✉️  You can contact me at [dragospetrescu5@gmail.com](mailto:dragospetrescu5@gmail.com)
