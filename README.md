@@ -11,7 +11,7 @@ Want to build something together? Contact me using the email link below!
 
 * 🌍  I'm based in Timisoara, Romania
 * ✉️  You can contact me at [dragospetrescu5@gmail.com](mailto:dragospetrescu5@gmail.com)
-* 🧠  I'm learning SCSS, Tailwind and React
+* 🧠  I'm learning PHP, Wordpress and MySQL
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Someone told me I'm "strange" (Doctor Strange).
 
