@@ -19,7 +19,7 @@ Want to build something together? Contact me using the email link below!
 
 
 <p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
 <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind CSS" />
@@ -40,7 +40,7 @@ Want to build something together? Contact me using the email link below!
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="48" height="48" alt="MySQL" />
 </a> &nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> &nbsp;
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width="36" height="36" alt="Git" /></a> &nbsp;
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width="36" height="36" alt="Git" /></a>
 </p>
 
 ### Codewars Status 👨‍💻
