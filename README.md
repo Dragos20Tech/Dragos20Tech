@@ -10,25 +10,37 @@ Professionally, my main goal is to become a proficient Full-Stack Engineer focus
 Want to build something together? Contact me using the email link below!
 
 * 🌍  I'm based in Timisoara, Romania
-* ✉️  You can contact me at [dragospetrescu5@gmail.com](mailto:dragospetrescu5@gmail.com)
-* 🧠  I'm learning PHP, Wordpress and MySQL
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Someone told me I'm "strange" (Doctor Strange).
+* ✉️  Reach me at [dragospetrescu5@gmail.com](mailto:dragospetrescu5@gmail.com)
+* 🧠  Currently learning MERN stack and diving deeper into Linux OS
+* 🤝  Open to collaboration on web development projects
+* ⚡  Strongest with: PHP, CodeIgniter, MySQL, and Tailwind CSS
 
 ### Skills
 
 
 <p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<!-- Tailwind CSS -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind CSS" />
+</a> &nbsp;
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="36" height="36" alt="React" /></a> &nbsp;
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="36" height="36" alt="TypeScript" /></a> &nbsp;
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> &nbsp;
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="72" height="36" alt="PHP" /></a>
+<!-- CodeIgniter -->
+<a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/353579/codeigniter.svg" width="48" height="48" alt="CodeIgniter" />
+</a> &nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> &nbsp;
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="48" height="48" alt="MySQL" />
+</a> &nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> &nbsp;
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width="36" height="36" alt="Git" /></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Codewars Status 👨‍💻
